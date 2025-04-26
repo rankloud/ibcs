@@ -14,7 +14,7 @@ author:
 
 ## Custom
 collections:
-  wp:
+  _wp:
     output: true
     permalink: /wp/:name/
 
