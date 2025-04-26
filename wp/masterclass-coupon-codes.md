@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Masterclass Space Coupons 2025 - Discount Codes, Promo Offers"
 seo:
     title: "Masterclass Space Coupons 2025 - Discount Codes, Promo Offers"
@@ -9,7 +9,7 @@ author: "Rankloud Team"
 categories: [coupons, masterclass]
 robots: index, follow
 image: https://github.com/user-attachments/assets/b64496ed-06de-44af-a4c4-103522070026
-permalink: /masterclass-coupon-codes/
+permalink: /custom/masterclass-coupon-codes/
 ---
 
 Want to learn from icons like Gordon Ramsay or Serena Williams without the hefty price tag? MasterClass coupon codes are your secret weapon. These discounts slash the cost of premium courses taught by the world’s best, making elite education affordable. In this guide, we’ll uncover the top MasterClass coupon codes, show you how to snag them, and share insider tricks to maximize your savings. Let’s get you learning for less!
