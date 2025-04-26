@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: default
 ---
 
 # 🎁 Welcome to Rankloud Coupons
 
 Explore our verified coupon codes:
 
-- [Masterclass Coupons](/wp/masterclass-coupon-codes/)
-- [Teachable Coupons](/wp/teachable-coupon-codes/)
+- [Masterclass Coupons](/ibcs/masterclass-coupon-codes/)
+- [Teachable Coupons](/ibcs/teachable-coupon-codes/)
 
 <ul>
   {% for post in site.posts %}
