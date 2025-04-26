@@ -12,6 +12,12 @@ author:
   url:          https://rankloud.com
   email:        rankloud@gmail.com
 
+## Custom
+collections:
+  wp:
+    output: true
+    permalink: /wp/:name/
+
 # Build settings
 remote_theme: chesterhow/tale
 markdown:       kramdown
