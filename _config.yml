@@ -17,6 +17,8 @@ remote_theme: chesterhow/tale
 markdown:       kramdown
 include:
   - _pages
+  - wp
+  - _posts
 
 # Assets
 sass:
