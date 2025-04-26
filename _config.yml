@@ -14,7 +14,7 @@ author:
   email:        rankloud@gmail.com
 
 # Build settings
-theme: tale
+remote_theme: chesterhow/tale
 markdown:       kramdown
 include:
   - _pages
