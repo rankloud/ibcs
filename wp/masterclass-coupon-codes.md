@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Masterclass Space Coupons 2025 - Discount Codes, Promo Offers"
+title: "Masterclass Coupons 2025 - Discount Codes, Promo Offers"
 description: "Get verified MasterClass coupons and promo codes for 2025. Unlock huge discounts on the best courses at MasterClass!"
 date: 2025-04-27
 author: "Rankloud Team"
-categories: [coupons, masterclass]
 robots: index, follow
 image: https://github.com/user-attachments/assets/b64496ed-06de-44af-a4c4-103522070026
-permalink: /wp/masterclass-coupon-codes/
+permalink: /masterclass-coupon-codes/
 ---
 # Masterclass Space Coupons 2025 - Discount Codes, Promo Offers
 

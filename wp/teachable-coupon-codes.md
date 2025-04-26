@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: default
 title: "Teachable Coupons 2025 - Discount Codes, Promo Offers"
 description: "Get verified Teachable coupons and promo codes for 2025. Unlock huge discounts on the best courses at Teachable!"
 date: 2025-04-27
 author: "Rankloud Team"
-categories: [coupons, teachable]
 robots: index, follow
 permalink: /teachable-coupon-codes/
 ---
