@@ -17,7 +17,7 @@ remote_theme: chesterhow/tale
 markdown:       kramdown
 include:
   - _pages
-  - wp
+  - _wp
   - _posts
 
 # Assets
