@@ -1,7 +1,6 @@
 # Site settings
 title:          Rankloud Coupons
 description:    "Rankloud Coupons and Promo Codes for 2025"
-baseurl:        ""
 url:            "https://rankloud.github.io/ibcs"
 
 # Google Analytics
