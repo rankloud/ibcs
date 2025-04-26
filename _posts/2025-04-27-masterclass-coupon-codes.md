@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Masterclass Space Coupons 2025 - Discount Codes, Promo Offers"
 seo:
     title: "Masterclass Space Coupons 2025 - Discount Codes, Promo Offers"
 description: "Get verified MasterClass coupons and promo codes for 2025. Unlock huge discounts on the best courses at MasterClass!"
