@@ -1,8 +1,8 @@
 ---
 title: "MasterClass Coupon Codes 🚀: How to Save Big On Masterclass?"
 description: "Get verified MasterClass coupons and promo codes for 2025. Unlock huge discounts on the best courses at MasterClass!"
-layout: default
-permalink: /masterclass-coupon-codes/
+layout: page
+permalink: /wp/masterclass-coupon-codes/
 ---
 
 # MasterClass Coupon Codes 🚀: How to Save Big On Masterclass? Get Up To 75% Off Now

@@ -1,17 +1,42 @@
-title: "Rankloud Coupons"
-description: "Verified Coupons for 2025"
-baseurl: "" # leave blank if using root repo
-url: "https://rankloud.github.io/ibcs" # or your custom domain later
-theme: jekyll-theme-minimal
-markdown: kramdown
-permalink: pretty
+# Site settings
+title:          Rankloud Coupons
+description:    "Rankloud Coupons and Promo Codes for 2025"
+baseurl:        ""
+url:            "https://rankloud.github.io/ibcs"
 
-# SEO stuff
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      sitemap: true
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Rankloud
+  url:          https://rankloud.com
+  email:        rankloud@gmail.com
+
+# Build settings
+theme: tale
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /pretty
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale

@@ -1,8 +1,8 @@
 ---
 title: "Teachable Coupon Codes 🚀: How to Save Big On Teachable?"
 description: "Get verified Teachable coupons and promo codes for 2025. Unlock huge discounts on the best courses at Teachable!"
-layout: default
-permalink: /teachable-coupon-codes/
+layout: page
+permalink: /wp/teachable-coupon-codes/
 ---
 
 # Teachable Coupons: Save Big on Your Online Course Journey 🎓💰
