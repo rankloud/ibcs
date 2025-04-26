@@ -1,0 +1,17 @@
+title: "Rankloud Coupons"
+description: "Verified Coupons for 2025"
+baseurl: "" # leave blank if using root repo
+url: "https://rankloud.github.io/ibcs" # or your custom domain later
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
+
+# SEO stuff
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      sitemap: true
