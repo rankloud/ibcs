@@ -6,8 +6,10 @@ layout: default
 
 Explore our verified coupon codes:
 
-- [Masterclass Coupons](/ibcs/masterclass-coupon-codes/)
-- [Teachable Coupons](/ibcs/teachable-coupon-codes/)
+- [✅ Masterclass Coupons](/ibcs/masterclass-coupon-codes/)
+- [✅ Teachable Coupons](/ibcs/teachable-coupon-codes/)
+- [✅ Pressable Coupon Codes](/ibcs/pressable-coupon-codes/)
+- [✅ Thrivecart Coupon Codes](/ibcs/thrivecart-coupon-codes/)
 
 <ul>
   {% for post in site.posts %}
