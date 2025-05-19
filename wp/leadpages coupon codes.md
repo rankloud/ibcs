@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Leadpages Coupons 2025 - Discount Codes, Promo Offers- Up to 75% Off"
-description: "Get verified Leadpages coupons and promo codes for 2025. Unlock huge discounts on the best courses at Leadpages!"
+title: "Leadpages Coupons 2025 - Discount Codes, Promo Offers- Up to 40% Off"
+description: "Get verified Leadpages coupons and promo codes for 2025. 40% Off Standard & Pro Plan!"
 date: 2025-04-27
 author: "Rankloud Team"
 robots: index, follow
@@ -9,7 +9,7 @@ permalink: /leadpages-coupon-codes/
 ---
 
 
-# 🏷️ Leadpages Coupon Codes: How to Save Big in 2025?
+# 🏷️ Leadpages Coupon Codes: 40% Off Pricing Plans- How to Save Big in 2025?
 
 [![Get 50% Off On Leadpages](https://img.shields.io/badge/Get%2050%25%20Off%20On%20Leadpages-blue?style=for-the-badge)](https://www.leadpages.com/)
 
