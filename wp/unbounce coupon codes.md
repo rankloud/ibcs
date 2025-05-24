@@ -14,7 +14,7 @@ permalink: /unbounce-coupon-codes/
 
 [![🟢 Start Your Free 14-Day Trial](https://img.shields.io/badge/🟢%20Start%20Your%20Free%2014--Day%20Trial-blue?style=for-the-badge)](https://unbounce.com/)
 
-[![🔵 Get 35% Off Annual Plans](https://img.shields.io/badge/🔵%20Get%3525%25%20Off%20Annual%20Plans-green?style=for-the-badge)](https://unbounce.com/pricing/)
+[![🔵 Get 35% Off Annual Plans](https://img.shields.io/badge/🔵%20Get%2035%25%20Off%20Annual%20Plans-green?style=for-the-badge)](https://unbounce.com/pricing/)
 
 
 Are you planning to invest in Unbounce for your marketing campaigns? Before making the purchase, it's essential to know how to maximize your savings using 
