@@ -5,7 +5,7 @@ description: "Discover the latest CartFlows coupon codes for 2025. Unlock all fe
 date: 2025-05-25
 author: "digiexe-official Team"
 robots: index, follow
-permalink: /Cartflows-coupon-codes/
+permalink: /cartflows-coupon-codes/
 ---
 
 # CartFlows Coupon Codes 2025 – Save Up to $500 On Cartflows Lifetime Plan
