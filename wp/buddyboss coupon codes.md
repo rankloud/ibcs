@@ -226,7 +226,7 @@ Quick Links
 
 - [Funnelytics Coupon Codes](https://rankloud.github.io/ibcs/funnelytics-coupon-codes/)
 - [Semrush Discounts](https://rankloud.github.io/ibcs/semrush-coupon-codes/)
--[ Best Deals on Thrivecart](https://rankloud.github.io/ibcs/thrivecart-coupon-codes/)
+- [ Best Deals on Thrivecart](https://rankloud.github.io/ibcs/thrivecart-coupon-codes/)
 
 ---
 
