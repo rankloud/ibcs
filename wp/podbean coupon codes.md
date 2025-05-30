@@ -3,7 +3,7 @@ layout: default
 title: "Podbean Coupon Codes 2025 – Save Big on Podcast Hosting"
 description: "Discover the latest Podbean coupon codes for 2025. Learn how to apply them and maximize your savings on Podbean plans."
 date: 2025-05-25
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /podbean-coupon-codes/
 ---
