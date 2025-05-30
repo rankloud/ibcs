@@ -3,7 +3,7 @@ layout: default
 title: "Semrush Coupon Codes 2025 – Save up to 17% All Semrush Annual Plans"
 description: "Discover the latest Semrush coupon codes for 2025. Grab 17% Off Semrush Annual Plans"
 date: 2025-05-26
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /semrush-coupon-codes/
 ---
