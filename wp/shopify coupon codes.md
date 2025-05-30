@@ -3,7 +3,7 @@ layout: default
 title: "Shopify Coupon Codes 2025: $200 Off 3 Year Plan - Upgrade Now to Shopify Plus"
 description: "Check out Shopify coupon codes to save on powerful e-commerce tools. Learn how to find, apply coupons, and get the best deals in 2025."
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /shopify-coupon-codes/
 ---
