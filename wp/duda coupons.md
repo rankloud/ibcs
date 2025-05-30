@@ -3,7 +3,7 @@ layout: default
 title: "Duda Coupon Codes 2025 – 25% Off Annual Plans + 14 Days Free Trial"
 description: "Explore the latest Duda coupon codes for 2025.25% Off Annual Plans + 14 Days Free Trial & 30 days money back guarantee "
 date: 2025-05-26
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /duda-coupons/
 ---
