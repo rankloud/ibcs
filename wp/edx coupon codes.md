@@ -8,7 +8,7 @@ robots: index, follow
 permalink: /edx-coupon-codes/
 ---
 
-# edX Coupon Codes 2025: Unlock Savings on Quality Online Education 🎓
+# edX Coupon Codes 2025: 50% Off All Courses on edX (Campus + Business) 🎓
 
 [![edX for Business - Transform Your Workforce](https://img.shields.io/badge/edX%20for%20Business-Transform%20Your%20Workforce-blue?style=for-the-badge)](https://business.edx.org/business)
 
