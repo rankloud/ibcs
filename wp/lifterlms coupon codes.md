@@ -3,7 +3,7 @@ layout: default
 title: "LifterLMS Coupon Codes 2025: 50% Off All Pricing Plans on LifterLMS"
 description: "Discover the latest LifterLMS coupon codes for 2025. Use Coupon Code FIRSTYEAR50 and get 50% Off on your first year of new order."
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /lifterlms-coupon-codes/
 ---
