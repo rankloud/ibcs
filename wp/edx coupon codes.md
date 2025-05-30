@@ -3,7 +3,7 @@ layout: default
 title: "edX Coupon Codes 2025: Up to 50% Off All Courses "
 description: "Discover the latest edX coupon codes for 2025 to save on top online courses and certifications. Learn how to find, use, and maximize discounts with edX coupons."
 date: 2025-05-30
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /edx-coupon-codes/
 ---
