@@ -3,7 +3,7 @@ layout: default
 title: "Copy AI Coupon Codes 2025: Save Up to 60% on AI Writing Tools"
 description: "Explore the latest Copy AI coupon codes for 2025 to save on powerful AI content creation tools. Learn how to apply coupons, find the best deals, and boost your content game."
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /copy-ai-coupon-codes/
 ---
