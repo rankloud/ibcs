@@ -3,7 +3,7 @@ layout: default
 title: "Funnelytics Coupon Codes 2025: 2 Months Free With Annual Plan"
 description: "Discover the latest Funnelytics coupon codes for 2025. Save Big With Business Plan & 2 Months Free"
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /funnelytics-coupon-codes/
 ---
