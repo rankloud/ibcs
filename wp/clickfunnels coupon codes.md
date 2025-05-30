@@ -3,7 +3,7 @@ layout: default
 title: "Clickfunnels Coupon Codes 2025 – Save $594/year On Clickfunnels Pro Plan"
 description: "Discover the latest Clickfunnels coupon codes for 2025. Save $194/year on Startup plan & $594/year On Clickfunnels Pro Plan"
 date: 2025-05-26
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /clickfunnels-coupon-codes/
 ---
