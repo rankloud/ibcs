@@ -3,7 +3,7 @@ layout: default
 title: "STM Forum Coupon Codes 2025: Up to 70% Off On Yearly Membership"
 description: "Discover the latest STM Forum coupon codes for 2025 to save on premium affiliate marketing memberships. Up to 70% Off On Yearly Membership"
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /stm-forum-coupons/
 ---
