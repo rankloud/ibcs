@@ -3,7 +3,7 @@ layout: default
 title: "PocketSmith Coupon Codes 2025 – Grab 33% Off All Annual Plans"
 description: "Discover the latest PocketSmith coupon codes for 2025. Best Discounts Upto 33% Off All Plans "
 date: 2025-05-26
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /pocketsmith-coupon-codes/
 ---
