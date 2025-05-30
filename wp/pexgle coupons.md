@@ -3,7 +3,7 @@ layout: default
 title: "Pexgle Coupon Codes 2025 – Grab Upto 50% Off Pexgle + 2 Months Free With Annual Plans"
 description: "Discover the latest Pexgle coupon codes for 2025. 7 Days Money Back Guarantee + 2 Months Free With Annual Plans"
 date: 2025-05-25
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /pexgle-coupon-codes/
 ---
