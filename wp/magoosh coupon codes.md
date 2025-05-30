@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Magoosh Coupon Codes 2025 - Save Big on GRE Prep with Magoosh"
-description: "Discover the latest Magoosh coupon codes to save on GRE prep courses in 2025. Learn how to find and apply coupons to get the best deals on Magoosh."
-date: 2025-05-
+title: "Magoosh Coupon Codes 2025 - Up to 50% Off All courses on Magoosh"
+description: "Discover the latest Magoosh coupon codes to save Up to 50% Off GRE, GMAT, SAT & ACT Courses"
+date: 2025-05-30
 author: "digiexe-official Team"
 robots: index, follow
-permalink: /Magoosh-coupon-codes/
+permalink: /magoosh-coupon-codes/
 ---
 
-# Magoosh Coupon Codes 2025: Save Big on GRE Prep with Magoosh 🎓
+# Magoosh Coupon Codes 2025: Get Up To 50% Off GRE, GMAT Courses + OnDemand Webinars 🎓
 
 [![Get 30% Off Magoosh GRE Prep - 1 Month Plan for $69](https://img.shields.io/badge/Get%2030%25%20Off-Magoosh%20GRE%20Prep%20$69-brightgreen?style=for-the-badge)](https://gre.magoosh.com/)
 
