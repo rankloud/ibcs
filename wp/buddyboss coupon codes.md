@@ -3,7 +3,7 @@ layout: default
 title: "BuddyBoss Coupon Codes 2025: 20% Off Buddyboss All-In-One Bundle"
 description: "Discover the latest BuddyBoss coupon codes for 2025. 20% Off Bundle Plans on Buddyboss"
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /buddyboss-coupon-codes/
 ---
