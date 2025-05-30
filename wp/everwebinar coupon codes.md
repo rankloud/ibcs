@@ -3,7 +3,7 @@ layout: default
 title: "Everwebinar Coupon Codes 2025 – TRY EVERWEBINAR FOR $1"
 description: "Check out Everwebinar coupon codes to unlock exclusive savings. Learn how to use coupons, find the best deals, and maximize your webinar success."
 date: 2025-05-27
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /everwebinar-coupon-codes/
 ---
