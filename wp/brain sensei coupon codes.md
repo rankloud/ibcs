@@ -3,7 +3,7 @@ layout: default
 title: "Brain Sensei Coupon Codes 2025: Save up to $150 Exam Prep Courses"
 description: "Find the latest Brain Sensei coupon codes to save on PMP exam prep courses. Save more than $200 Off PMP & CAPM Exam prep courses."
 date: 2025-05-30
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /brain-sensei-coupon-codes/
 ---
