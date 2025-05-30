@@ -3,7 +3,7 @@ layout: default
 title: "CXL Coupon Codes 2025 - Save 55% Annual On-demand & Live courses."
 description: "Check out the latest CXL coupon codes for 2025. Save 55% Annual On-Demand & Live Courses & 35% On Quaterly Payment"
 date: 2025-05-30
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /cxl-coupon-codes/
 ---
