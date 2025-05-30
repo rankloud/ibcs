@@ -92,7 +92,7 @@ Applying your Magoosh coupon code is simple:
 
 ### ACT Pricing Plans
 | Plan          | Price       | Key Features                                               |
-| ------------- | | ----------- | ----------------------------------------------------------|
+| ------------- |----------- | ----------------------------------------------------------|
 | **12 Month**   |  $129         | Full ACT prep including video lessons, practice questions, and quizzes. |
 | **Premium Ondemand**  | $399         | Extra practice tests and personalized study recommendations. |
 
