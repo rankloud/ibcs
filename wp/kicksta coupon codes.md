@@ -3,7 +3,7 @@ layout: default
 title: "Kicksta Coupon Codes 2025 – Up to 60% Off All Plans + 4 Months Free"
 description: "Discover the latest Kicksta coupon codes and discounts for 2025. Pay Yearly and get 4 months free on All Kicksta Plans"
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /kicksta-coupon-codes/
 ---
