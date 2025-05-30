@@ -3,7 +3,7 @@ layout: default
 title: "360Training Coupon Codes 2025: Grab up to 30% Off On All Courses"
 description: "Explore the latest 360Training coupon codes for 2025. Grab best discounts up to 30% Off All courses."
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /360training-coupon-codes/
 ---
