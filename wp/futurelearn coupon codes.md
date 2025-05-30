@@ -3,7 +3,7 @@ layout: default
 title: "Futurelearn Coupon Codes 2025: 35% Off Annual Pricing Plans on FutureLearn"
 description: "Discover the latest Futurelearn coupon codes for 2025. 35% Off Annual Plans & Access to Online Degrees"
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /futurelearn-coupon-codes/
 ---
