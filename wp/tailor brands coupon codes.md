@@ -3,7 +3,7 @@ layout: default
 title: "Tailor Brands Coupon Codes 2025 – Up to 70% Off Tailor Brand"
 description: "Discover the latest Tailor Brands coupon codes and discounts for 2025. 70% Off + 30 Days Free Trial"
 date: 2025-05-28
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /tailor-brands-coupon-codes/
 ---
