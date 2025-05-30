@@ -3,7 +3,7 @@ layout: default
 title: "Webinarjam Coupon Codes 2025 – Up to 24% Off All Annual Plans"
 description: "Discover how to use Webinarjam coupon codes to save big. Find the best deals, pricing plans, and tips to maximize your webinar success."
 date: 2025-05-27
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
 permalink: /webinarjam-coupon-codes/
 ---
