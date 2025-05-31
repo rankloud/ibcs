@@ -10,6 +10,17 @@ permalink: /datacamp-coupon-codes/
 
 # Datacamp Coupon Codes 2025: Pay Yearly & Save $145 On Datacamp Premium Plan Now 📊
 
+### Datacamp Coupon Code CTA Buttons with Pricing
+
+[![Get 50% Off Datacamp Premium - $39/month or $300/year](https://img.shields.io/badge/Get_50%25_Off_Premium-$39%2Fmonth_or_$300%2Fyear-017ACC?style=for-the-badge&logo=python&logoColor=white)](https://www.datacamp.com/)
+
+[![Save 30% on Datacamp Subscriptions - Unlimited Courses & Projects](https://img.shields.io/badge/Save_30%25_on_Subscriptions-Unlimited_Courses-017ACC?style=for-the-badge&logo=python&logoColor=white)](https://www.datacamp.com/)
+
+[![Claim Your Datacamp Discount Now - Teams Pricing Available](https://img.shields.io/badge/Claim_Your_Discount_Teams_Custom_Pricing-017ACC?style=for-the-badge&logo=python&logoColor=white)](https://www.datacamp.com/)
+
+[![Start Learning with Datacamp Today - Free Basic Plan Available](https://img.shields.io/badge/Start_Learning_Today_Free_Basic_Plan-017ACC?style=for-the-badge&logo=python&logoColor=white)](https://www.datacamp.com/)
+
+
 If you want to master data science, programming, or analytics, **Datacamp coupon codes** can help you save money while 
 accessing world-class learning resources. In this blog, we explain how to find and use these coupons effectively to get the best deals on Datacamp subscriptions and courses in 2025.
 
