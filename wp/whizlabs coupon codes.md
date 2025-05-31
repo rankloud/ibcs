@@ -10,6 +10,16 @@ permalink: /whizlabs-coupon-codes/
 
 # Whizlabs Coupon Codes 2025: Save 45% On Premium Plan + 7 Days Refund Policy 🤑
 
+### Whizlabs Coupon CTA Buttons with Pricing
+
+[![Get 50% Off on Whizlabs - Practice Tests from $13.12](https://img.shields.io/badge/Get_50%25_Off_Practice_Tests-$13.12-F06B29?style=for-the-badge&logo=whizlabs&logoColor=white)](https://www.whizlabs.com/pricing/)
+
+[![Save 30% on Whizlabs Courses - Full Course + Practice from $15.75](https://img.shields.io/badge/Save_30%25_on_Full_Courses-$15.75-F06B29?style=for-the-badge&logo=whizlabs&logoColor=white)](https://www.whizlabs.com/pricing/)
+
+[![Claim Your Whizlabs Discount - Subscription $29/month or $199/year](https://img.shields.io/badge/Claim_Discount_Subscription-$29%2Fmonth_Full_Access-F06B29?style=for-the-badge&logo=whizlabs&logoColor=white)](https://www.whizlabs.com/pricing/)
+
+[![Get 7-Day Free Trial on Whizlabs - Try Unlimited Access](https://img.shields.io/badge/Get_7_Day_Free_Trial_Unlimited_Access-F06B29?style=for-the-badge&logo=whizlabs&logoColor=white)](https://www.whizlabs.com/pricing/)
+
 If you're looking to boost your skills with affordable courses and practice exams, **Whizlabs coupon codes** are your 
 best friend. 
 
