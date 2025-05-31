@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Udemy Coupon Codes 2025 – Save Big on Online Courses"
+title: "Udemy Coupon Codes 2025 – Save 80% On Online Courses"
 description: "Check out Udemy coupon codes and learn how to save money on top online courses with exclusive discounts and offers."
 date: 2025-05-31
-author: "digiexe-official Team"
+author: "Rankloud Team"
 robots: index, follow
-permalink: /Udemy-coupon-codes/
+permalink: /udemy-coupon-codes/
 ---
 
-# Udemy Coupon Codes 2025: How to Save on Online Learning 🎓
+# Udemy Coupon Codes 2025: Save 80% Off All Courses & Certifications on Udemy 🎓
 
 [![Get Up to 70% Off Udemy Courses](https://img.shields.io/badge/Get_Up_to_70%25_Off-Udemy_Courses-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/pricing/)
 
